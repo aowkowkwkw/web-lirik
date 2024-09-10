@@ -26,7 +26,7 @@
 
     { "line": "Masalah yang mengeruh", "time": 51000 },
 
-    { "line": "Ohhh, Perasaan yang rapuh", "time": 55100 },
+    { "line": "Ohh, Perasaan yang rapuh", "time": 55100 },
 
     { "line": "Ini belum separuhnya", "time": 60000 },
 
@@ -42,12 +42,58 @@
 
     { "line": "Muak dikesampingkan", "time": 87000 },
 
-    { "line": "Haruskah ku tetap berharap", "time": 170000 },
+    { "line": "Disamakan", "time": 90100 },
 
-    { "line": "Ataukah ku harus menyerah", "time": 180000 },
+    { "line": "Hatimu terluka, sempurna", "time": 92200 },
 
-    { "line": "Pada takdir yang selalu menghantui", "time": 190000 },
+    { "line": "Masalah yang mengeruh", "time": 97950 },
 
-    { "line": "Dan ku tersesat dalam evaluasi ini", "time": 196000 }
+    { "line": "Ohh, Perasaan yang rapuh", "time": 102000 },
+
+    { "line": "Ini belum separuhnya", "time": 107000 },
+    
+    { "line": "Biasa saja", "time": 110000},
+
+    { "line": "Kamu tak apa", "time": 112000},
+
+    { "line": "Perjalanan yang jauh", "time": 117000},
+
+    { "line": "Kau bangun untuk bertaruh", "time": 121500},
+
+    { "line": "Hari belum selesai", "time": 125500},
+
+    { "line": "Biasa saja", "time": 129000},
+
+    { "line": "Kamu tak apa", "time": 131000},
+
+    { "line": "Bilas muka, gosok gigi, evaluasi", "time": 135500},
+
+    { "line": "Tidur sejenak menemui esok pagi", "time": 140000},
+
+    { "line": "Walau pedih 'ku bersamamu kali ini", "time": 144500},
+
+    { "line": "'Ku masih ingin melihatmu esok hari", "time": 149500},
+
+    { "line": "Bilas muka, gosok gigi, evaluasi", "time":154300},
+
+    { "line": "Tidur sejenak menemui esok pagi", "time": 159000},
+
+    { "line": "Walau pedih 'ku bersamamu kali ini", "time": 163500},
+
+    { "line": "'Ku masih ingin melihatmu esok hari", "time": 168600},
+
+    { "line": "Bilas muka, gosok gigi, evaluasi", "time": 173000},
+
+    { "line": "Tidur sejenak menemui esok pagi", "time": 177700},
+
+    { "line": "Walau pedih 'ku bersamamu kali ini", "time": 182000},
+
+    { "line": "'Ku masih ingin melihatmu esok hari", "time": 186700},
+
+    { "line": ".", "time": 192000},
+
+    { "line": "Thank you yang udah mampir", "time": 194000}
+
+   
   ]
 }

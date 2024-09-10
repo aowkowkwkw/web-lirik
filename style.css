@@ -7,13 +7,13 @@ body {
     min-height: 90vh;
     max-height: 90vh;
     margin: 0;
-    color: #fff;
+    color: #614f4f;
     display: -webkit-box;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     flex-direction: column;
-    background-image: url("bg.jpg");
+    background-image: url("bekgron.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     outline: none;
@@ -133,7 +133,7 @@ body .player {
 
 body .player .left {
     width: 200px;
-    background-image: url("icon.jpg");
+    background-image: url("evaluasi.jfif");
     background-size: cover;
     border-top-left-radius: 30px;
 }
@@ -147,7 +147,7 @@ body .player .left {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #a37ebad3;
+    background-color: #5e4949d3;
     z-index: 2;
     cursor: pointer;
 }
